@@ -14,7 +14,6 @@ function App() {
       <Router>
         <Route path="/" component={LandingPages}></Route>
         <Route path="/kontak" component={Kontak}></Route>
-        <Route path="/kontak" component={Kontak}></Route>
       </Router>
     </div>
   )
